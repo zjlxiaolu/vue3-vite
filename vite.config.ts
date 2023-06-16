@@ -9,4 +9,3 @@ export default defineConfig({
     outDir: "docs"
   }
 })
-// git@github.com:zjlxiaolu/zjlxiaolu.git
